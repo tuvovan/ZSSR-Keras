@@ -41,10 +41,6 @@ allows to perform SR of real old photos, noisy images, biological data, and othe
     python ZSSR.py 
     ```
 ## Usage
-### Training
-```
-python train.py 
-```
 ```
 usage: ZSSR.py [-h] [--srFactor SRFACTOR] [--epochs EPOCHS]
                [--filepath FILEPATH] [--filters FILTERS] [--shuffle SHUFFLE]
