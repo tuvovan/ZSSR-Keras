@@ -28,8 +28,11 @@ pip install -r requirements.txt
 
 ## Running
 
-### Ideal
+### Idea
 ```
+"We exploit the internal recurrence of information inside a single image, and train a small image-specific CNN at test time, on
+examples extracted solely from the input image itself. As such, it can adapt itself to different settings per image. This
+allows to perform SR of real old photos, noisy images, biological data, and other images where the acquisition process is unknown or non-ideal."
 ```
 ### Training 
 
@@ -72,6 +75,7 @@ optional arguments:
 
 #### Result
 ![INPUT](imgs/img_001_SRF_2_LR.png) | ![BICUBIC INTERPOLATIOM](output/2_super_size_interpolated.png) | ![ZSSR](output/2_super.png)
+![INPUT](imgs/Lena.png) | ![BICUBIC INTERPOLATIOM](output/Lena_super_size_interpolated.png) | ![ZSSR](output/Lena_super.png)
 |:---:|:---:|:---:|
 | input | bicubic interpolation | zssr |
 
