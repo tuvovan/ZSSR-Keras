@@ -75,8 +75,8 @@ optional arguments:
 
 #### Result
 ![INPUT](output/image.png) | ![BICUBIC INTERPOLATION](output/2_super_size_interpolated.png) | ![ZSSR](output/2_super.png)
-![INPUT](output/Lena.png) | ![BICUBIC INTERPOLATIOM](output/Lena_super_size_interpolated.png) | ![ZSSR](output/Lena_super.png)
 |:---:|:---:|:---:|
+![INPUT](output/Lena.png) | ![BICUBIC INTERPOLATIOM](output/Lena_super_size_interpolated.png) | ![ZSSR](output/Lena_super.png)
 | input | bicubic interpolation | zssr |
 
 ## License
