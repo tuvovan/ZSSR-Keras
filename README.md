@@ -40,7 +40,8 @@ pip install -r requirements.txt
 ### Training
 ```
 python train.py 
-
+```
+```
 usage: ZSSR.py [-h] [--srFactor SRFACTOR] [--epochs EPOCHS]
                [--filepath FILEPATH] [--filters FILTERS] [--shuffle SHUFFLE]
                [--batch BATCH] [--layers LAYERS] [--sortOrder SORTORDER]
