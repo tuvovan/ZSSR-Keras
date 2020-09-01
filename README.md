@@ -52,22 +52,22 @@ usage: ZSSR.py [-h] [--srFactor SRFACTOR] [--epochs EPOCHS]
 ```
 ```
 optional arguments:
-  -h, --help            show this help message and exit
-  --srFactor SRFACTOR
-  --epochs EPOCHS
-  --filepath FILEPATH
-  --filters FILTERS
-  --shuffle SHUFFLE
-  --batch BATCH
-  --layers LAYERS
-  --sortOrder SORTORDER
-  --scalingSteps SCALINGSTEPS
-  --groundTruth GROUNDTRUTH
-  --flip FLIP
-  --noiseFlag NOISEFLAG
-  --noiseSTD NOISESTD
-  --save_aug SAVE_AUG
-  --output_paths OUTPUT_PATHS
+  -h, --help                    show this help message and exit
+  --srFactor                    SRFACTOR
+  --epochs                      EPOCHS
+  --filepath                    FILEPATH
+  --filters                     FILTERS
+  --shuffle                     SHUFFLE
+  --batch                       BATCH
+  --layers                      LAYERS
+  --sortOrder                   SORTORDER
+  --scalingSteps                SCALINGSTEPS
+  --groundTruth                 GROUNDTRUTH
+  --flip                        FLIP
+  --noiseFlag                   NOISEFLAG
+  --noiseSTD                    NOISESTD
+  --save_aug                    SAVE_AUG
+  --output_paths                OUTPUT_PATHS
 ```
 
 #### Result

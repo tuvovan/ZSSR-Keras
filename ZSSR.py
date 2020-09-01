@@ -2,7 +2,7 @@ import argparse
 import numpy as np
 import cv2
 import os
-from config import *
+# from config import *
 from model import ZSSR
 from data_utils import *
 from tensorflow import keras
