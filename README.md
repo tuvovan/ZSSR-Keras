@@ -74,8 +74,8 @@ optional arguments:
 ```
 
 #### Result
-![INPUT](imgs/img_001_SRF_2_LR.png) | ![BICUBIC INTERPOLATIOM](output/2_super_size_interpolated.png) | ![ZSSR](output/2_super.png)
-![INPUT](imgs/Lena.png) | ![BICUBIC INTERPOLATIOM](output/Lena_super_size_interpolated.png) | ![ZSSR](output/Lena_super.png)
+![INPUT](output/img_001_SRF_2_LR.png) | ![BICUBIC INTERPOLATIOM](output/2_super_size_interpolated.png) | ![ZSSR](output/2_super.png)
+![INPUT](output/Lena.png) | ![BICUBIC INTERPOLATIOM](output/Lena_super_size_interpolated.png) | ![ZSSR](output/Lena_super.png)
 |:---:|:---:|:---:|
 | input | bicubic interpolation | zssr |
 
